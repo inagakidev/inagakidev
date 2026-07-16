@@ -2,7 +2,7 @@
 
 <!-- Banner com efeito de digitação -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Amanda;Desenvolvedora+Front-end;React+%7C+Next.js+%7C+TypeScript;Sempre+aprendendo+algo+novo+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Amanda;Desenvolvedora+Front-end;React+%7C+Next.js+%7C+TypeScript;Sempre+aprendendo+algo" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,9 +13,8 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Sobre mim
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/vsnc/vsnc/output/snake.svg" />
 
-- Apaixonada por **interfaces** e **desenvolvimento Front-end**
+- Interesse por **desenvolvimento Front-end**
 - Cursando **Sistemas de Informação**
 - Foco atual: **React.js**, **Next.js**, **JavaScript** e **TypeScript**
 - Transformando ideias em experiências web modernas e bem pensadas
@@ -48,9 +47,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=inagakidev&show_icons=true&hide_border=true&count_private=true&bg_color=0D0716&title_color=C084FC&icon_color=C084FC&text_color=E9D5FF&ring_color=A855F7" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inagakidev&layout=compact&hide_border=true&bg_color=0D0716&title_color=C084FC&text_color=E9D5FF&langs_count=8" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=inagakidev&hide_border=true&background=0D0716&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=E9D5FF&currStreakNum=E9D5FF&sideNums=E9D5FF&dates=9F7AEA" />
@@ -62,24 +58,21 @@
 
 </div>
 
-<!-- ================= TROFÉUS ================= -->
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=inagakidev&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7)
 
 </div>
 
-<!-- ================= CONTRIBUIÇÕES / SNAKE ================= -->
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Contribuições
 
 <div align="center">
 
-<!-- Após configurar a GitHub Action (instruções no final), troque SEU_USUARIO -->
+
 <img src="https://raw.githubusercontent.com/inagakidev/inagakidev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
-<!-- ================= REDES SOCIAIS ================= -->
+
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Vamos nos conectar
 
 <div align="center">
