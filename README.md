@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Banner com efeito de digitação -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Amanda;Desenvolvedora+Front-end;React+%7C+Next.js+%7C+TypeScript;Sempre+aprendendo+algo" alt="Typing SVG" />
 </a>
@@ -53,7 +52,6 @@
 
 <br/><br/>
 
-<!-- Gráfico de atividade -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=inagakidev&theme=react-dark&bg_color=0D0716&color=C084FC&line=A855F7&point=E9D5FF&hide_border=true" width="100%"/>
 
 </div>
