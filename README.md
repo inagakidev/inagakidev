@@ -6,8 +6,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:C084FC&height=180&section=header&text=&fontSize=0" width="100%"/>
-
 </div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Sobre mim
