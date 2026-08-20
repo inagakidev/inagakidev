@@ -17,8 +17,6 @@
 - Transformando ideias em experiências web modernas e bem pensadas
 - Como me encontrar: veja os links logo abaixo!
 
-> *"Transformar código em soluções reais com interfaces estratégicas."*
-
 <br clear="right"/>
 
 
