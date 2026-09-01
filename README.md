@@ -8,14 +8,18 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Sobre mim
+<h2>Sobre mim</h2>
 
+<img align="left" width="150" style="border-radius: 12px; margin-right: 20px;" src="https://raw.githubusercontent.com/inagakidev/inagakidev/main/assets/avatar.png" alt="Minha foto"/>
 
-- Interesse por **desenvolvimento Front-end**
-- Cursando **Sistemas de Informação**
-- Foco atual: **React.js**, **Next.js**, **JavaScript** e **TypeScript**
-- Transformando ideias em experiências web modernas e bem pensadas
-- Como me encontrar: veja os links logo abaixo!
+Olá! Meu nome é <b>Amanda Inagaki</b>, e sou estudante de <b>Sistemas de Informação</b>.
+Sou apaixonada por tecnologia e adoro criar interfaces bonitas e funcionais.
+Curto bastante o universo <b>front-end</b>, mas também estou sempre explorando
+novas ferramentas e boas práticas de desenvolvimento. Atualmente venho aprimorando
+minhas habilidades em <b> React.js</b> e <b>boas práticas de código</b>,
+buscando construir projetos cada vez mais robustos e crescer continuamente na área.
+
+<br clear="left"/>
 
 <br clear="right"/>
 
@@ -46,9 +50,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=inagakidev&hide_border=true&background=0D0716&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=E9D5FF&currStreakNum=E9D5FF&sideNums=E9D5FF&dates=9F7AEA" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=inagakidev&theme=react-dark&bg_color=0D0716&color=C084FC&line=A855F7&point=E9D5FF&hide_border=true" width="100%"/>
+<br/>
 
 </div>
 
@@ -87,8 +89,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=inagakidev&color=A855F7&style=for-the-badge&label=VISITAS+NO+PERFIL)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,100:6D28D9&height=100&section=footer" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=inagakidev&color=C084FC&style=for-the-badge&label=VISITAS+NO+PERFIL)
 
 </div>
