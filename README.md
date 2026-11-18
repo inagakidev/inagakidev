@@ -5,7 +5,7 @@
 Estudante de Sistemas de Informação, construindo interfaces com React, Next.js e TypeScript.
 Gosto dos detalhes que deixam uma tela agradável de usar, e de código organizado o bastante para outra pessoa entender de primeira.
 
-<a href="https://www.linkedin.com/in/amanda-inagaki"><img src="https://img.shields.io/badge/LinkedIn-F5F2FB?style=flat-square&logo=linkedin&logoColor=5B4E80" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/amanda-inagaki"><img src="https://img.shields.io/badge/LinkedIn-F5F2FB?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzVCNEU4MCIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
 <a href="mailto:inagakilanding@gmail.com"><img src="https://img.shields.io/badge/Email-F5F2FB?style=flat-square&logo=gmail&logoColor=5B4E80" alt="Email" /></a>
 <a href="https://www.instagram.com/amandfsk"><img src="https://img.shields.io/badge/Instagram-F5F2FB?style=flat-square&logo=instagram&logoColor=5B4E80" alt="Instagram" /></a>
 
