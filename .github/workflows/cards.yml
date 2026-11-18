@@ -1,0 +1,41 @@
+name: Atualizar imagens do perfil
+
+on:
+  schedule:
+    - cron: "23 9 * * *" # todo dia, por volta das 6h no horário de Brasília
+  workflow_dispatch:
+  push: # roda também quando você muda o script ou este arquivo (em qualquer branch)
+    paths:
+      - "scripts/gerar_cards.py"
+      - ".github/workflows/cards.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gerar banner e números a partir da API do GitHub
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: python scripts/gerar_cards.py
+
+      - name: Salvar imagens se algo mudou
+        run: |
+          git add assets/*.svg
+          if git diff --cached --quiet; then
+            echo "Nada mudou."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: atualiza imagens do perfil"
+          git push
