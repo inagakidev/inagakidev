@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Gera as imagens do perfil (SVG) na paleta lavanda.
 
-- assets/banner-claro.svg e banner-escuro.svg: banner do topo, sem fundo (textos editáveis logo abaixo)
+- assets/mosaico-claro.svg e mosaico-escuro.svg: quadradinhos ao lado do nome
 - assets/numeros.svg: números do último ano + linguagens mais usadas
 
 Usa só a biblioteca padrão do Python e a API GraphQL do GitHub.
@@ -14,10 +14,6 @@ from pathlib import Path
 from urllib.request import Request, urlopen
 from xml.sax.saxutils import escape
 from zoneinfo import ZoneInfo
-
-# Textos do banner: edite à vontade
-NOME = "Amanda Inagaki"
-CARGO = "desenvolvedora front-end"
 
 PASTA = Path(__file__).resolve().parents[1] / "assets"
 USUARIA = os.environ.get("GITHUB_USERNAME", "inagakidev")
@@ -65,36 +61,24 @@ def numero(n):
     return f"{n:,}".replace(",", ".")
 
 
-def gerar_banner(tema):
-    """Banner sem fundo, em versão clara e escura (o GitHub escolhe pelo tema)."""
+def gerar_mosaico(tema):
+    """Mosaico de quadradinhos ao lado do nome, sem fundo, em versão clara e escura."""
     if tema == "escuro":
-        nome, cargo, detalhe = "#EDE8F7", LILAS, "#9D93B5"
-        estrela, tons = LILAS, ["#2B2540", "#2B2540", "#3A3350", UVA, "#2B2540", LAVANDA]
+        tons = ["#2B2540", "#2B2540", "#3A3350", UVA, "#2B2540", LAVANDA]
     else:
-        nome, cargo, detalhe = TINTA, UVA, SUAVE
-        estrela, tons = LAVANDA, [NEVOA, NEVOA, "#E8E2F5", LILAS, NEVOA, LAVANDA]
+        tons = [NEVOA, NEVOA, "#E8E2F5", LILAS, NEVOA, LAVANDA]
 
-    w, h = 840, 128
-    p = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" '
-        f'role="img" aria-label="{escape(NOME)}, {escape(CARGO)}">',
-        brilho(9, 28, 7, estrela),
-        texto(24, 33, "OLÁ, MUNDO", 11, detalhe, 600, espaco=2.5),
-        texto(0, 84, NOME, 40, nome, 700),
-        texto(2, 113, CARGO, 17, cargo, 500),
-    ]
-    # Mosaico discreto à direita, lembrando um gráfico de contribuições
     lado, gap = 14, 6
-    x0, y0 = w - 8 * (lado + gap), 14
+    w, h = 8 * (lado + gap) - gap, 5 * (lado + gap) - gap
+    p = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" aria-hidden="true">']
     for linha in range(5):
         for coluna in range(8):
             if (linha + coluna) % 9 == 3 or (linha == 0 and coluna < 3) or (linha == 4 and coluna > 5):
                 continue
             cor = tons[(linha * 3 + coluna * 5) % len(tons)]
-            x = x0 + coluna * (lado + gap)
-            y = y0 + linha * (lado + gap)
-            p.append(f'<rect x="{x}" y="{y}" width="{lado}" height="{lado}" rx="4" fill="{cor}"/>')
-    salvar(f"banner-{tema}.svg", p)
+            p.append(f'<rect x="{coluna * (lado + gap)}" y="{linha * (lado + gap)}" '
+                     f'width="{lado}" height="{lado}" rx="4" fill="{cor}"/>')
+    salvar(f"mosaico-{tema}.svg", p)
 
 
 def buscar_dados():
@@ -230,6 +214,6 @@ def gerar_numeros(usuaria):
 
 
 if __name__ == "__main__":
-    gerar_banner("claro")
-    gerar_banner("escuro")
+    gerar_mosaico("claro")
+    gerar_mosaico("escuro")
     gerar_numeros(buscar_dados())

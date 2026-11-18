@@ -1,9 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-escuro.svg" />
-  <img src="assets/banner-claro.svg" width="100%" alt="Amanda Inagaki, desenvolvedora front-end" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/mosaico-escuro.svg" />
+  <img align="right" width="150" src="assets/mosaico-claro.svg" alt="" />
 </picture>
 
-<br>
+<sub>✦ &nbsp;OLÁ, MUNDO</sub>
+
+<h1>Amanda Inagaki<br><sub><sub>desenvolvedora front-end</sub></sub></h1>
+
 
 Estudante de Sistemas de Informação, construindo interfaces com React, Next.js e TypeScript.
 Gosto dos detalhes que deixam uma tela agradável de usar, e de código organizado o bastante para outra pessoa entender de primeira.
