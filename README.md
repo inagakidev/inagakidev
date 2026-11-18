@@ -20,20 +20,6 @@ Gosto dos detalhes que deixam uma tela agradável de usar, e de código organiza
 
 <br>
 
-### ✦ projetos
-
-<!-- Troque pelos seus projetos: nome, tecnologias, uma frase e os links -->
-
-**Nome do projeto** &nbsp;<sub>Next.js · TypeScript</sub><br>
-Uma frase sobre o que ele faz e o detalhe de que você mais se orgulha.<br>
-[ver online](https://link-do-projeto.vercel.app) &nbsp;·&nbsp; [código](https://github.com/inagakidev/nome-do-repo)
-
-**Nome do projeto** &nbsp;<sub>React · CSS</sub><br>
-Uma frase sobre o que ele faz e o detalhe de que você mais se orgulha.<br>
-[ver online](https://link-do-projeto.vercel.app) &nbsp;·&nbsp; [código](https://github.com/inagakidev/nome-do-repo)
-
-<br>
-
 ### ✦ números
 
 <img src="assets/numeros.svg" width="100%" alt="Números da Amanda no GitHub no último ano e linguagens mais usadas" />
