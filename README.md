@@ -5,7 +5,9 @@
 
 <sub>✦ &nbsp;OLÁ, MUNDO</sub>
 
-<h1>Amanda Inagaki<br><sub><sub>desenvolvedora front-end</sub></sub></h1>
+<h3>Amanda Inagaki<br><sub>desenvolvedora front-end</sub></h3>
+
+<br>
 
 
 Estudante de Sistemas de Informação, construindo interfaces com React, Next.js e TypeScript.
@@ -17,7 +19,7 @@ Gosto dos detalhes que deixam uma tela agradável de usar, e de código organiza
 
 <br>
 
-### ✦ stack
+#### ✦ stack
 
 <img src="https://img.shields.io/badge/base-HTML_%C2%B7_CSS_%C2%B7_JavaScript-DCD3F0?style=flat-square&labelColor=2B2540" alt="Base: HTML, CSS e JavaScript" />
 <img src="https://img.shields.io/badge/interface-React_%C2%B7_Next.js_%C2%B7_TypeScript-DCD3F0?style=flat-square&labelColor=2B2540" alt="Interface: React, Next.js e TypeScript" />
@@ -26,7 +28,7 @@ Gosto dos detalhes que deixam uma tela agradável de usar, e de código organiza
 
 <br>
 
-### ✦ números
+#### ✦ números
 
 <img src="assets/numeros.svg" width="100%" alt="Números da Amanda no GitHub no último ano e linguagens mais usadas" />
 
