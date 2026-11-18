@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-escuro.svg" />
-  <img src="assets/banner-claro.svg" width="100%" alt="Amanda Inagaki, desenvolvedora front-end. React, Next.js e TypeScript." />
+  <img src="assets/banner-claro.svg" width="100%" alt="Amanda Inagaki, desenvolvedora front-end" />
 </picture>
 
 <br>

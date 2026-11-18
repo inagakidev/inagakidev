@@ -18,7 +18,6 @@ from zoneinfo import ZoneInfo
 # Textos do banner: edite à vontade
 NOME = "Amanda Inagaki"
 CARGO = "desenvolvedora front-end"
-DETALHE = "React · Next.js · TypeScript"
 
 PASTA = Path(__file__).resolve().parents[1] / "assets"
 USUARIA = os.environ.get("GITHUB_USERNAME", "inagakidev")
@@ -75,7 +74,7 @@ def gerar_banner(tema):
         nome, cargo, detalhe = TINTA, UVA, SUAVE
         estrela, tons = LAVANDA, [NEVOA, NEVOA, "#E8E2F5", LILAS, NEVOA, LAVANDA]
 
-    w, h = 840, 150
+    w, h = 840, 128
     p = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" '
         f'role="img" aria-label="{escape(NOME)}, {escape(CARGO)}">',
@@ -83,11 +82,10 @@ def gerar_banner(tema):
         texto(24, 33, "OLÁ, MUNDO", 11, detalhe, 600, espaco=2.5),
         texto(0, 84, NOME, 40, nome, 700),
         texto(2, 113, CARGO, 17, cargo, 500),
-        texto(2, 138, DETALHE, 13, detalhe),
     ]
     # Mosaico discreto à direita, lembrando um gráfico de contribuições
     lado, gap = 14, 6
-    x0, y0 = w - 8 * (lado + gap), 22
+    x0, y0 = w - 8 * (lado + gap), 14
     for linha in range(5):
         for coluna in range(8):
             if (linha + coluna) % 9 == 3 or (linha == 0 and coluna < 3) or (linha == 4 and coluna > 5):
