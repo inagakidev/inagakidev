@@ -1,94 +1,61 @@
-<div align="center">
+<img src="assets/banner.svg" width="100%" alt="Amanda Inagaki, desenvolvedora front-end. React, Next.js e TypeScript." />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Amanda;Desenvolvedora+Front-end;React+%7C+Next.js+%7C+TypeScript;Sempre+aprendendo+algo" alt="Typing SVG" />
-</a>
+<br>
 
-<br/>
+Estudante de Sistemas de Informação, construindo interfaces com React, Next.js e TypeScript.
+Gosto dos detalhes que deixam uma tela agradável de usar, e de código organizado o bastante para outra pessoa entender de primeira.
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/amanda-inagaki) &nbsp;·&nbsp; [Email](mailto:inagakilanding@gmail.com) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/amandfsk)
 
-<h2>Sobre mim</h2>
+<br>
 
-<img align="left" width="150" style="border-radius: 12px; margin-right: 20px;" src="https://raw.githubusercontent.com/inagakidev/inagakidev/main/assets/avatar.png" alt="Minha foto"/>
+### ✦ agora
 
-Olá! Meu nome é <b>Amanda Inagaki</b>, e sou estudante de <b>Sistemas de Informação</b>.
-Sou apaixonada por tecnologia e adoro criar interfaces bonitas e funcionais.
-Curto bastante o universo <b>front-end</b>, mas também estou sempre explorando
-novas ferramentas e boas práticas de desenvolvimento. Atualmente venho aprimorando
-minhas habilidades em <b> React.js</b> e <b>boas práticas de código</b>,
-buscando construir projetos cada vez mais robustos e crescer continuamente na área.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <sub>CONSTRUINDO</sub><br>
+      O projeto em que você está trabalhando agora
+    </td>
+    <td width="33%" valign="top">
+      <sub>ESTUDANDO</sub><br>
+      O assunto que você está aprendendo agora
+    </td>
+    <td width="33%" valign="top">
+      <sub>COMUNIDADE</sub><br>
+      He4rt, estudando e trocando com outras devs
+    </td>
+  </tr>
+</table>
 
-<br clear="left"/>
+<br>
 
-<br clear="right"/>
+### ✦ stack
 
+<img src="https://img.shields.io/badge/base-HTML_%C2%B7_CSS_%C2%B7_JavaScript-DCD3F0?style=flat-square&labelColor=2B2540" alt="Base: HTML, CSS e JavaScript" />
+<img src="https://img.shields.io/badge/interface-React_%C2%B7_Next.js_%C2%B7_TypeScript-DCD3F0?style=flat-square&labelColor=2B2540" alt="Interface: React, Next.js e TypeScript" />
+<img src="https://img.shields.io/badge/ferramentas-Git_%C2%B7_Figma_%C2%B7_VS_Code-DCD3F0?style=flat-square&labelColor=2B2540" alt="Ferramentas: Git, Figma e VS Code" />
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> Stacks & Ferramentas
+<br>
 
-<div align="center">
+### ✦ projetos
 
-![HTML5](https://img.shields.io/badge/HTML5-2A0A4A?style=for-the-badge&logo=html5&logoColor=C084FC)
-![CSS3](https://img.shields.io/badge/CSS3-2A0A4A?style=for-the-badge&logo=css3&logoColor=C084FC)
-![JavaScript](https://img.shields.io/badge/JavaScript-2A0A4A?style=for-the-badge&logo=javascript&logoColor=C084FC)
-![TypeScript](https://img.shields.io/badge/TypeScript-2A0A4A?style=for-the-badge&logo=typescript&logoColor=C084FC)
-![React](https://img.shields.io/badge/React-2A0A4A?style=for-the-badge&logo=react&logoColor=C084FC)
-![Next.js](https://img.shields.io/badge/Next.js-2A0A4A?style=for-the-badge&logo=nextdotjs&logoColor=C084FC)
-![Git](https://img.shields.io/badge/Git-2A0A4A?style=for-the-badge&logo=git&logoColor=C084FC)
-![GitHub](https://img.shields.io/badge/GitHub-2A0A4A?style=for-the-badge&logo=github&logoColor=C084FC)
-![Figma](https://img.shields.io/badge/Figma-2A0A4A?style=for-the-badge&logo=figma&logoColor=C084FC)
-![VSCode](https://img.shields.io/badge/VS%20Code-2A0A4A?style=for-the-badge&logo=visualstudiocode&logoColor=C084FC)
+<!-- Troque pelos seus projetos: nome, tecnologias, uma frase e os links -->
 
-</div>
+**Nome do projeto** &nbsp;<sub>Next.js · TypeScript</sub><br>
+Uma frase sobre o que ele faz e o detalhe de que você mais se orgulha.<br>
+[ver online](https://link-do-projeto.vercel.app) &nbsp;·&nbsp; [código](https://github.com/inagakidev/nome-do-repo)
 
+**Nome do projeto** &nbsp;<sub>React · CSS</sub><br>
+Uma frase sobre o que ele faz e o detalhe de que você mais se orgulha.<br>
+[ver online](https://link-do-projeto.vercel.app) &nbsp;·&nbsp; [código](https://github.com/inagakidev/nome-do-repo)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Estatísticas do GitHub
+<br>
 
-<div align="center">
+### ✦ números
 
-<br/>
+<img src="assets/numeros.svg" width="100%" alt="Números da Amanda no GitHub no último ano e linguagens mais usadas" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=inagakidev&hide_border=true&background=0D0716&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=E9D5FF&currStreakNum=E9D5FF&sideNums=E9D5FF&dates=9F7AEA" />
+<br>
 
-<br/>
-
-</div>
-
-<div align="center">
-
-
-</div>
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Contribuições
-
-<div align="center">
-
-
-<img src="https://raw.githubusercontent.com/inagakidev/inagakidev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Vamos nos conectar
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/amanda-inagaki" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-2A0A4A?style=for-the-badge&logo=linkedin&logoColor=C084FC" />
-</a>
-<a href="inagakilanding@gmail.com">
-  <img src="https://img.shields.io/badge/Email-2A0A4A?style=for-the-badge&logo=gmail&logoColor=C084FC" />
-</a>
-<a href="https://www.instagram.com/amandfsk" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-2A0A4A?style=for-the-badge&logo=instagram&logoColor=C084FC" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=inagakidev&color=C084FC&style=for-the-badge&label=VISITAS+NO+PERFIL)
-
-</div>
+<sub>✦ obrigada por passar por aqui</sub>
