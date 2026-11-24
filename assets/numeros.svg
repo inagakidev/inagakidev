@@ -2,33 +2,33 @@
 <rect width="840" height="250" rx="22" fill="#F5F2FB"/>
 <path d="M 52 42 Q 53.76 48.24 60 50 Q 53.76 51.76 52 58 Q 50.24 51.76 44 50 Q 50.24 48.24 52 42 Z" fill="#8E7FB8"/>
 <text x="68" y="55" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#6B6185" text-anchor="start" letter-spacing="2.5">NO ÚLTIMO ANO</text>
-<text x="44" y="120" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#2B2540" text-anchor="start">321</text>
+<text x="44" y="120" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#2B2540" text-anchor="start">367</text>
 <text x="44" y="142" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#6B6185" text-anchor="start">contribuições</text>
 <path d="M 216 84 V 140" stroke="#E2DBF0" stroke-width="1.5"/>
-<text x="232" y="120" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#2B2540" text-anchor="start">41</text>
+<text x="232" y="120" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#2B2540" text-anchor="start">42</text>
 <text x="232" y="142" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#6B6185" text-anchor="start">dias ativos</text>
 <path d="M 404 84 V 140" stroke="#E2DBF0" stroke-width="1.5"/>
-<text x="420" y="120" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#2B2540" text-anchor="start">7</text>
+<text x="420" y="120" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#2B2540" text-anchor="start">8</text>
 <text x="420" y="142" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#6B6185" text-anchor="start">dias seguidos agora</text>
 <path d="M 592 84 V 140" stroke="#E2DBF0" stroke-width="1.5"/>
 <text x="608" y="120" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#2B2540" text-anchor="start">10</text>
 <text x="608" y="142" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#6B6185" text-anchor="start">repositórios públicos</text>
 <clipPath id="barra"><rect x="44" y="172" width="752" height="12" rx="6"/></clipPath>
 <g clip-path="url(#barra)">
-<rect x="44.0" y="172" width="435.3" height="12" fill="#5B4E80"/>
-<rect x="478.8" y="172" width="176.0" height="12" fill="#8E7FB8"/>
-<rect x="654.3" y="172" width="69.4" height="12" fill="#B8A9D9"/>
-<rect x="723.2" y="172" width="63.5" height="12" fill="#DCD3F0"/>
-<rect x="786.2" y="172" width="10.3" height="12" fill="#E2DBF0"/>
+<rect x="44.0" y="172" width="422.9" height="12" fill="#5B4E80"/>
+<rect x="466.4" y="172" width="219.1" height="12" fill="#8E7FB8"/>
+<rect x="685.0" y="172" width="54.2" height="12" fill="#B8A9D9"/>
+<rect x="738.7" y="172" width="50.1" height="12" fill="#DCD3F0"/>
+<rect x="788.3" y="172" width="8.2" height="12" fill="#E2DBF0"/>
 </g>
 <rect x="44" y="205" width="10" height="10" rx="3" fill="#5B4E80"/>
-<text x="60" y="214" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="500" fill="#6B6185" text-anchor="start">TypeScript 58%</text>
+<text x="60" y="214" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="500" fill="#6B6185" text-anchor="start">TypeScript 56%</text>
 <rect x="170.8" y="205" width="10" height="10" rx="3" fill="#8E7FB8"/>
-<text x="186.8" y="214" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="500" fill="#6B6185" text-anchor="start">PHP 23%</text>
+<text x="186.8" y="214" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="500" fill="#6B6185" text-anchor="start">PHP 29%</text>
 <rect x="247.20000000000002" y="205" width="10" height="10" rx="3" fill="#B8A9D9"/>
-<text x="263.20000000000005" y="214" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="500" fill="#6B6185" text-anchor="start">JavaScript 9%</text>
+<text x="263.20000000000005" y="214" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="500" fill="#6B6185" text-anchor="start">JavaScript 7%</text>
 <rect x="366.8" y="205" width="10" height="10" rx="3" fill="#DCD3F0"/>
-<text x="382.8" y="214" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="500" fill="#6B6185" text-anchor="start">CSS 8%</text>
+<text x="382.8" y="214" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="500" fill="#6B6185" text-anchor="start">CSS 7%</text>
 <rect x="436.0" y="205" width="10" height="10" rx="3" fill="#E2DBF0"/>
 <text x="452.0" y="214" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="500" fill="#6B6185" text-anchor="start">Outras 1%</text>
 </svg>
