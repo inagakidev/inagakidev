@@ -8,7 +8,7 @@
 <text x="232" y="120" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#2B2540" text-anchor="start">43</text>
 <text x="232" y="142" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#6B6185" text-anchor="start">dias ativos</text>
 <path d="M 404 84 V 140" stroke="#E2DBF0" stroke-width="1.5"/>
-<text x="420" y="120" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#2B2540" text-anchor="start">9</text>
+<text x="420" y="120" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#2B2540" text-anchor="start">0</text>
 <text x="420" y="142" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#6B6185" text-anchor="start">dias seguidos agora</text>
 <path d="M 592 84 V 140" stroke="#E2DBF0" stroke-width="1.5"/>
 <text x="608" y="120" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#2B2540" text-anchor="start">10</text>
